@@ -13,6 +13,8 @@ public class Segitiga06 {
         luas = alas * tinggi / 2;
         System.out.println("Luas Segitiga" + luas);
         System.out.println("ahayyyyy");
+        System.out.println("ihirrrr");
+        
 
     }
     
