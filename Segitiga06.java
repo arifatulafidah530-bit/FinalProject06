@@ -12,6 +12,7 @@ public class Segitiga06 {
         tinggi = sc.nextInt();
         luas = alas * tinggi / 2;
         System.out.println("Luas Segitiga" + luas);
+        System.out.println("ahayyyyy");
 
     }
     
