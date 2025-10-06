@@ -15,6 +15,7 @@ public class Segitiga06 {
         System.out.println("ahayyyyy");
         System.out.println("ihirrrr");
         System.out.println("slebew");
+        System.out.println("icikiwirrrrr");
         
 
     }
