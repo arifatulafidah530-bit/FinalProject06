@@ -14,6 +14,7 @@ public class Segitiga06 {
         System.out.println("Luas Segitiga" + luas);
         System.out.println("ahayyyyy");
         System.out.println("ihirrrr");
+        System.out.println("slebew");
         
 
     }
